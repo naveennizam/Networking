@@ -1,7 +1,8 @@
 # Networking
 ##Cisco Packet Tracer
-- How is working between
--1. HUB
+### Working between
+
+- HUB
 - SWITCH
 - ROUTER
 - BRIDGE
