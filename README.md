@@ -13,5 +13,5 @@ First Download and Install  <a href='https://skillsforall.com/resources/lab-down
 - STATIC ROUTING
 - RIP
 - Access Control List  <br>
-      1. Standard    <br>
-      2. Extended
+       1.   Standard    <br>
+       2.   Extended
