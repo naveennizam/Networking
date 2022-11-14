@@ -12,6 +12,7 @@ First Download and Install  <a href='https://skillsforall.com/resources/lab-down
 - REPEATER
 - STATIC ROUTING
 - RIP
+- SUBNETTING
 - Access Control List  <br>
        1.   Standard    <br>
        2.   Extended
