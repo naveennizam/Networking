@@ -13,7 +13,7 @@
 - STATIC ROUTING
 - RIP
 - SUBNETTING
--INTER VLAN
+- INTER VLAN
 - Access Control List  <br>
        1.   Standard    <br>
        2.   Extended
